@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jhasaurabhniranjan
+- 👀 I’m interested in Developing new Tools/Features and collaborating with others that enriches knowledge altogether
+- 🌱 I’m currently learning various Design Patterns and System Designing Questions using Java.
+- 💡 I'm currently working as a Software Developer Engineer as ZEE5 OTT Platform.
+- 💞️ I’m looking to collaborate on Various System Designing Questions and probably if we can start with new ideas to implement together.
+- 📫 How to reach me --> jhasaurabh.niranjan@gmail.com
